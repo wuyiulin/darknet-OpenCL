@@ -1,0 +1,41 @@
+*.o
+*.dSYM
+*.csv
+*.out
+*.png
+*.jpg
+*.pyc
+*.dll
+*.lib
+old/
+mnist/
+data/
+caffe/
+grasp/
+images/
+opencv/
+convnet/
+decaf/
+submission/
+cfg/
+darknet
+darknet.*
+libdarknet.*
+.fuse*
+
+# CMake build #
+build/
+3rdparty/_Base
+
+# CLion #
+cmake-build-debug/
+cmake-build-release/
+.idea/
+
+# OS Generated #
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp
+
